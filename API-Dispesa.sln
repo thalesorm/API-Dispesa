@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Dispesa", "API-Dispesa\API-Dispesa.csproj", "{6A95C993-BE03-4C8B-AE62-8757578FA62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A95C993-BE03-4C8B-AE62-8757578FA62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A95C993-BE03-4C8B-AE62-8757578FA62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A95C993-BE03-4C8B-AE62-8757578FA62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A95C993-BE03-4C8B-AE62-8757578FA62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E30A37AE-8E19-429E-B9E9-E7559B6949AC}
+	EndGlobalSection
+EndGlobal
